@@ -1,2 +1,5 @@
-# Hirok-
-This is my first repo
+# FIrst project
+This is my first 
+Author--Hirok
+
+
